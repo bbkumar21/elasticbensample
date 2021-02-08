@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Student>
+  <item>
+    <id>1</id>
+    <first_name>Bharath</first_name>
+    <last_name>Kumar</last_name>
+    <email_id>bbharathkumar@gmail.com</email_id>
+    <password>test123</password>
+    <upload_img>laxmanlucky@gmail.com69cc4576f0fd7b1d8e1096a71c7df677.jpg</upload_img>
+    <dob>01-05-1990</dob>
+    <gender>Male</gender>
+    <cell_number>1234555890</cell_number>
+    <college>MJ</college>
+    <adress>Hyderabad</adress>
+    <city>Hyderabad</city>
+    <state>Telangana</state>
+    <pin>500053</pin>
+  </item>
+  <item>
+    <id>2</id>
+    <first_name>deepti</first_name>
+    <last_name>k</last_name>
+    <email_id>deepti@gmail.com</email_id>
+    <password>test123</password>
+    <upload_img></upload_img>
+    <dob>05-01-1990</dob>
+    <gender>Female</gender>
+    <cell_number>514789632</cell_number>
+    <college>DKM</college>
+    <adress>kdsfjdsa</adress>
+    <city>Hyderabad</city>
+    <state>Telangana</state>
+    <pin>500068</pin>
+  </item>
+</Student>
